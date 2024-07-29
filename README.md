@@ -11,3 +11,5 @@ During the summer months (June-July) 2024 I participated in an AI programming su
  2. **Task 2:** Financial Analysis tool ( A Streamlit application which uses Open AI API under the hood in order to 		     compare stocks)
  3. **Task 3:** Disease Analysis (A Streamlit application which uses Open AI API under the hood in order to predict your disease, depending with your symptoms)
  4. **Task 4** Quiz Generator (A Streamlit application which uses Open AI API under the hood in order generate quizzes dynamically)
+
+ > I would like to thank Workealy for this amazing experience and the great job in structuring the course!
